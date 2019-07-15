@@ -16,8 +16,8 @@ import org.springframework.web.bind.annotation.RestController;
 import com.napptilus.test.dto.OompaReducedResponseDto;
 import com.napptilus.test.dto.OompaRequestDto;
 import com.napptilus.test.dto.OompaResponseDto;
+import com.napptilus.test.dto.poji.OompaMapping;
 import com.napptilus.test.model.Oompa;
-import com.napptilus.test.model.poji.OompaMapping;
 import com.napptilus.test.repository.OompaRepository;
 
 @RestController

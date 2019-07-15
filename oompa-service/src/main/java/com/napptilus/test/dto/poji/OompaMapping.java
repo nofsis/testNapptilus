@@ -1,4 +1,4 @@
-package com.napptilus.test.model.poji;
+package com.napptilus.test.dto.poji;
 
 import com.napptilus.test.dto.OompaReducedResponseDto;
 import com.napptilus.test.dto.OompaRequestDto;
